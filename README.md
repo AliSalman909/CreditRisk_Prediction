@@ -42,7 +42,8 @@ To build a classification model that can predict the likelihood of a loan gettin
 ---
 
 ## How to Run
+1. Ensure the `train.csv` and 'test.csv' file is saved locally.
+2. Update the path in the script if needed:
 
-```bash
-# In your terminal
-python loan.py
+```python
+
